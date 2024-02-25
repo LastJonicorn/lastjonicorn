@@ -1,5 +1,3 @@
-<h1>Hi there 👋 </br> This is my info page</h1>
-
 <h1>What I can do</h1>
 <h2>Coding languages:</h2>
 <ul>
