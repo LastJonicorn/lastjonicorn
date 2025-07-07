@@ -1,19 +1,25 @@
-<h1>What I can do?</h1>
+<h1>About me</h1>
+
 <h2>Coding languages:</h2>
+
 <ul>
+  <li>C#</li>
   <li>React</li>
   <li>React Native</li>
   <li>HTML</li>
   <li>CSS</li>
   <li>Javascript</li>
-  <li>C#</li>
+  <li>Python</li>
 </ul>
-<h2>Other stuff:</h2>
+
+<h2>Other:</h2>
+
 <ul>
+  <li>Blender (3D)</li>
+  <li>2D Graphics</li>
+  <li>Unity</li>
   <li>Wordpress</li>
   <li>Wordpress elementor</li>
-  <li>Graphics</li>
-  <li>Blender</li>
 </ul>
 
 <!--
