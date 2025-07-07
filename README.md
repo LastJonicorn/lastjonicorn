@@ -1,5 +1,7 @@
 <h1>About me</h1>
-
+<p>
+I'm a Bachelor of business information technology from Oulu University of Applied Sciences. I'm a fast and motivated learner. My strengths as an employee are the desire to learn new things, a strong foundation in many programming languages, excellent English language skills and solid expertise in customer-oriented work. I prefer to spend my free time with my pets or by hanging with my friends. My favorite activities are playing board and video games or working on my own projects.
+</p>
 <h2>Coding languages:</h2>
 
 <ul>
