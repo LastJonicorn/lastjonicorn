@@ -7,6 +7,7 @@ When I’m not coding, you’ll probably find me hanging out with my pets or fri
 
 <h2> 💻 Tech Stack </h2>
 Languages & Frameworks:
+</br>
 
 C#
 
@@ -16,7 +17,8 @@ Python
 
 HTML / CSS
 
-<h2> Tools & Platforms: </h2>
+<h2> Tools & Skills: </h2>
+</br>
 
 Unity
 
