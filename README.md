@@ -5,7 +5,7 @@ I bring a strong foundation in multiple programming languages, excellent English
 
 When I’m not coding, you’ll probably find me hanging out with my pets or friends. I enjoy playing board and video games, as well as tinkering with personal projects in my spare time.
 
-<h1> 💻 Tech Stack </h1>
+<h1> 💻 Tech stack </h1>
 <h2> Languages & Frameworks: </h2>
 </br>
 
@@ -27,3 +27,7 @@ WordPress (including Elementor)
 Blender (3D)
 
 2D Graphics
+</br>
+
+<h2> Preview of my work: </h2>
+[My Portfolio](lastjonicorn.netlify.app)
