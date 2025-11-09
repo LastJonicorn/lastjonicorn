@@ -29,5 +29,4 @@ Blender (3D)
 2D Graphics
 </br>
 
-<h2> Preview of my work: </h2>
-<h2> https://lastjonicorn.netlify.app/ </h2>
+<h2> Preview of my work: https://lastjonicorn.netlify.app/ </h2>
