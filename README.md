@@ -30,4 +30,4 @@ Blender (3D)
 </br>
 
 <h2> Preview of my work: </h2>
-https://lastjonicorn.netlify.app/
+<h2> https://lastjonicorn.netlify.app/ </h2>
