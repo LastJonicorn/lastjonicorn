@@ -20,7 +20,7 @@ HTML / CSS
 <h2> Tools & Skills: </h2>
 </br>
 
-Unity
+Unity (2D, 3D, VR)
 
 WordPress (including Elementor)
 
