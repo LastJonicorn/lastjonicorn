@@ -5,6 +5,12 @@ I bring a strong foundation in multiple programming languages, excellent English
 
 When I’m not coding, you’ll probably find me hanging out with my pets or friends. I enjoy playing board and video games, as well as tinkering with personal projects in my spare time.
 
+<h2>Cerifications</h2>
+</br>
+<ul>
+  <li>AWS Cloud Practitioner Essentials (28.11.2025)</li>
+</ul>
+
 <h1> 💻 Tech stack </h1>
 <h2> Languages & Frameworks: </h2>
 </br>
