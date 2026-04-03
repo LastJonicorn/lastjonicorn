@@ -36,3 +36,5 @@ Blender (3D)
 </br>
 
 <h2> Preview of my work: https://lastjonicorn.netlify.app/ </h2>
+</br>
+<h2>Let's connect: https://www.linkedin.com/in/joni-lampela-431438300/</h2>
