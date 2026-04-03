@@ -11,20 +11,27 @@ When I’m not coding, you’ll probably find me hanging out with my pets or fri
 </br>
 
 <h1> 💻 Tech stack </h1>
+</br>
+
 <h2> Languages & Frameworks: </h2>
-C#
-JavaScript / React / React Native
-Python
-HTML / CSS
+<ul>
+  <li>C#</li>
+  <li>JavaScript / React / React Native</li>
+  <li>Python</li>
+  <li>HTML / CSS</li>
+</ul>
 </br>
 
 <h2> Tools & Skills: </h2>
-Unity (2D, 3D, VR)
-WordPress (including Elementor)
-Blender (3D)
-2D Graphics
+<ul>
+  <li>Unity (2D, 3D, VR)</li>
+  <li>WordPress (including Elementor)</li>
+  <li>Blender (3D)</li>
+  <li>2D Graphics</li>
+  <li>Visual Studio Code</li>
+  <li>PyCharm</li>
+</ul>
 </br>
 
 <h2> Preview of my work: https://lastjonicorn.netlify.app/ </h2>
-</br>
 <h2>Let's connect: https://www.linkedin.com/in/joni-lampela-431438300/</h2>
