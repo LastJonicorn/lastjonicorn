@@ -11,7 +11,6 @@ When I’m not coding, you’ll probably find me hanging out with my pets or fri
 </br>
 
 <h1> 💻 Tech stack </h1>
-</br>
 
 <h2> Languages & Frameworks: </h2>
 <ul>
